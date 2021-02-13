@@ -1,11 +1,7 @@
 ## Project Title
 
-An Inventory management  Application  for a store or warehouse
+Dockerize a laravel application
 
-## Application Achitecture:
-<p align="center">
-  <img  src="https://github.com/nanakwafo/Inventory-Application/blob/master/images/icon3.png">
-</p>
 
 
 ## Getting Started
@@ -34,9 +30,7 @@ Say what the step will be
   ` docker-compose build && docker-compose up -d`
 
 >NB.This will spin up 3 containers
->USEFUL COMMANDS :
-`docker-compose down`
-docker exec -it paymentmicoservice-php /bin/sh
+
 ```
 
 
@@ -64,10 +58,6 @@ version 2
 
 This project is licensed under the MIT License
 
-## Some screen shots:
-
-![alt text](https://github.com/nanakwafo/Inventory-Application/blob/master/images/icon2.png "Logo Title Text 1")
-![alt text](https://github.com/nanakwafo/Inventory-Application/blob/master/images/icon1.png "Logo Title Text 1")
 
 
 
